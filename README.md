@@ -24,6 +24,9 @@ Página desenvolvida com base no vídeo <strong><a href="https://www.youtube.com
 # :pushpin: Layout
 <img src="./assets/img/screenshot.png">
 
+<hr>
+Feito por <a href="https://github.com/juliarantess" target="_blank">juliarantess</a>.
+
 
 
 
