@@ -4,9 +4,12 @@
     <a href="#tecnologia">Tecnologias</a>&nbsp;|&nbsp;
     <a href="#sobre">Sobre</a>&nbsp;|&nbsp;
     <a href="#layout">Layout</a>&nbsp;
+    <br>
+    <img src="./assets/img/ballebot.svg" alt="Ballebot">
 </div>
 
-<img src="./assets/img/ballebot.svg" alt="Ballebot" align="center">
+
+
 
 <div id="tecnologia">
     <h1>Tecnologias</h1>
