@@ -6,7 +6,7 @@
     <a href="#layout">Layout</a>&nbsp;
 </div>
 
-![Landing Page](./assets/img/ballebot.svg)
+<img src="./assets/img/ballebot.svg" alt="Ballebot" align="center">
 
 <div id="tecnologia">
     <h1>Tecnologias</h1>
@@ -23,7 +23,7 @@
 
 <div id="sobre">
     <h1>Sobre</h1>
-    <p>Página desenvolvida com base no vídeo <strong><a href="https://www.youtube.com/watch?v=llF6vD-RljE&ab_channel=RafaellaBallerini">LANDING PAGE COM HTML e CSS!</a></strong> da @rafaballerini.
+    <p>Página desenvolvida com base no vídeo <strong><a href="https://www.youtube.com/watch?v=llF6vD-RljE&ab_channel=RafaellaBallerini" target="_blank">LANDING PAGE COM HTML e CSS!</a></strong> da <a href="https://github.com/rafaballerini" target="_blank">@rafaballerini</a>.
 </div>
 
 <br>
